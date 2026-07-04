@@ -1,0 +1,19 @@
+---
+id: mat-textile-engineered-knit
+type: material
+names: [engineered knit upper]
+aliases: {brand-class: [Flyknit (Nike), Primeknit (adidas), Hyposkin — brand names for the class], tech: [flat knit, jacquard knit]}
+domain: D5-upper-materials
+definition: A flat- or circular-knitted upper where structure, stretch zones, ventilation and pattern are programmed into the knit itself — panel count collapses toward one.
+key_parameters:
+  - {name: machine, unit: gauge, typical: "flat-knit 12–18 gg typical for uppers", confidence: low, source: model-knowledge}
+  - {name: zoning, unit: n/a, typical: "tuck/miss/inlay structures create hold vs stretch vs vent zones in one piece; fused yarns (TPU-wrapped) add lock", confidence: medium, source: model-knowledge}
+tested_by: [std-satra-upper-family]
+failure_modes: [bagging without inlay/skin support, snagging, toe abrasion]
+cost_drivers: [knit programming time, yarn mix (fusible/melt yarns), waste ~near-zero vs cut-and-sew]
+relationships: {kills: [cut-and-sew panel count], needs: [internal skins/cages for containment], sustainability_note: "near-zero cutting waste is the pitch"}
+sources: [motawi-hsam, model-knowledge]
+confidence: medium
+status: seed
+---
+Pattern engineering migrates from the cutting table into the knit program — repeat vs placement logic becomes stitch-map logic.

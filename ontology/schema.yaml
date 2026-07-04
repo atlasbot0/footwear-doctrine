@@ -1,0 +1,32 @@
+# Footwear Doctrine — entity schema v1 (frozen for v0.1 review)
+version: 1
+entity_types: [component, material, construction, process, property, standard, brand]
+id_prefixes: {component: cmp-, material: mat-, construction: con-, process: prc-, property: prp-, standard: std-, brand: brd-}
+required_fields: [id, type, names, domain, definition, sources, confidence, status]
+optional_fields:
+  - aliases            # map: region/context -> term (US/UK/IT/factory-floor)
+  - function           # what it does in the shoe (components)
+  - position           # where it sits
+  - materials          # material ids a component is typically made from
+  - key_parameters     # list of {name, unit, typical, confidence, source}
+  - processes          # process ids that shape/apply it
+  - tested_by          # standard ids / test families
+  - failure_modes
+  - cost_drivers
+  - compliance_flags   # controlled list, see below
+  - relationships      # map: part_of/made_from/attached_by/shaped_by/substitutes_for/generic_equivalent/brand_examples
+  - owner              # brands only: IP owner
+  - generic_equivalent # brands only: generic material/component class id
+domains: [D1-foot-fit, D2-sizing, D3-last, D4-patterns, D5-upper-materials, D6-linings,
+          D7-padding, D8-reinforcement, D9-bottom-stack, D10-constructions, D11-closing,
+          D12-closures-trims, D13-adhesives, D14-process-qa, D15-testing-compliance, D16-commercial]
+confidence_values: [high, medium, low]
+status_values: [seed, draft, triangulated, validated]
+compliance_flags_vocab: [pvc-restricted-major-brands, pfas-phase-out, phthalate-risk,
+  chrome-vi-risk, reach-svhc, cpsia-childrens, animal-welfare-policy, hydrolysis-risk,
+  uv-yellowing-risk, nickel-release, conflict-minerals]
+conventions:
+  units: SI first, imperial in parentheses
+  numeric_values: must carry confidence; medium/low queue for P3 dual-source triangulation
+  sources: keys must exist in sources/register.yaml
+  files: one entity per .md, YAML frontmatter between --- fences, short prose body

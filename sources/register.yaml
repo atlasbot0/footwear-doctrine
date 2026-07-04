@@ -1,0 +1,39 @@
+# Graded source register v0.1 — expand to 150–300 in Phase 1
+# tier: 1 practitioner | 2 academic | 3 standards | 4 supplier | 5 public-domain | 6 institutional/course | 7 enthusiast/teardown | 8 first-party | 9 patents
+# licence: pd (public domain) | free-web | purchased | to-buy | member | first-party
+sources:
+  motawi-hsam:      {tier: 1, title: "How Shoes are Made (Motawi)", licence: to-buy, note: "26 ch: design, materials, stitching, outsoles, tooling, EVA, lasts, QC"}
+  motawi-smdg:      {tier: 1, title: "Shoe Material Design Guide (Motawi)", licence: to-buy}
+  motawi-fpmld:     {tier: 1, title: "Footwear Pattern Making and Last Design (Motawi)", licence: to-buy, note: "toe spring, cone, grading, pattern springing"}
+  skyrme-bespoke:   {tier: 1, title: "Bespoke Shoemaking (Skyrme)", licence: to-buy, verify: true}
+  luximon-hb2:      {tier: 2, title: "Handbook of Footwear Design and Manufacture 2e (Luximon, Elsevier)", licence: to-buy, note: "anatomy, gait, lasts, sizing/grading"}
+  iso-19952:        {tier: 3, title: "ISO 19952:2025 Footwear — Vocabulary", licence: to-buy, note: "controlled-vocab tie-breaker"}
+  iso-tc216:        {tier: 3, title: "ISO/TC 216 footwear test methods (17707 sole flex, 20863 stiffener bond, 20876 insole stitch tear, 18896 shank)", licence: to-buy}
+  iso-sizing:       {tier: 3, title: "ISO 19407/19408 sizing + Mondopoint", licence: free-web, note: "iTeh previews scoped"}
+  satra-catalogue:  {tier: 3, title: "SATRA test method catalogue (250+; TM144 slip, TM404 sole adhesion, TM142 shock, TM362 whole-shoe abrasion)", licence: member}
+  satra-bulletin:   {tier: 3, title: "SATRA Bulletin articles", licence: free-web}
+  en-iso-20345:     {tier: 3, title: "EN ISO 20344/20345 safety footwear", licence: to-buy}
+  afirm-rsl:        {tier: 3, title: "AFIRM Group RSL + chemical info sheets", licence: free-web}
+  coats-hub:        {tier: 4, title: "Coats footwear/thread info hub (SPI, seam strength formula, thread selection)", licence: free-web}
+  ykk-opti:         {tier: 4, title: "YKK/Opti zip technical data", licence: free-web}
+  vibram-lib:       {tier: 4, title: "Vibram sole catalogue + compound literature", licence: free-web}
+  cordura-lib:      {tier: 4, title: "CORDURA (INVISTA) fabric technology library", licence: free-web}
+  gore-lib:         {tier: 4, title: "GORE-TEX footwear technical literature", licence: free-web}
+  ortholite-lib:    {tier: 4, title: "OrthoLite technical literature", licence: free-web}
+  texon-lib:        {tier: 4, title: "Texon board datasheets", licence: free-web}
+  finproject-xl:    {tier: 4, title: "Finproject XL Extralight technical literature", licence: free-web, verify: true}
+  golding-1902:     {tier: 5, title: "Golding — The Manufacture of Boots and Shoes (1902) + multi-vol series", licence: pd, note: "archive.org + thehcc.org; ingest verbatim"}
+  swaysland:        {tier: 5, title: "Swaysland — Boot and Shoe Design and Manufacture", licence: pd}
+  plucknett-1916:   {tier: 5, title: "Plucknett — Boot and Shoe Manufacture (1916)", licence: pd}
+  unido-lp:         {tier: 6, title: "UNIDO Leather Panel pattern-making engineering course", licence: free-web}
+  shoegazing:       {tier: 7, title: "Shoegazing construction guides (gemming, Blake/Rapid, storm welt)", licence: free-web}
+  tsc-8con:         {tier: 7, title: "Total Shoe Concept — 8 constructions (San Crispino, vulc, DIP)", licence: free-web}
+  heddels-con:      {tier: 7, title: "Heddels construction guide (veldtschoen, Norwegian vs storm)", licence: free-web}
+  misiu-con:        {tier: 7, title: "Misiu Academy construction methods (autoclave/foxing detail)", licence: free-web}
+  nb-rsm-2024:      {tier: 8, title: "New Balance Restricted Substances Manual 2024v1 (supplier-distributed)", licence: first-party, note: "RSL/MRSL schema, test matrix, PVC prohibition, PFAS phase-out, animal materials policy, labs BV/SGS"}
+  nb-1906r-sheet:   {tier: 8, title: "NB 1906R Silver Metallic factory spec sheet (uploaded 2026-07-04)", licence: first-party, note: "edge distance, SPI, foam densities, TPU gauges, Shore values"}
+  rollie-techpacks: {tier: 8, title: "Rollie tech packs + factory spec sheets", licence: first-party, status: to-digitise}
+  model-knowledge:  {tier: 0, title: "Claude synthesis pending triangulation", licence: n/a, note: "always paired with confidence medium/low; P3 replaces with tiered citations"}
+  vince-spec-template: {tier: 8, title: "New Shoe Spec Detailed Template (Vince working doc, PDF 2026-07-04)", licence: first-party, note: "line-item columns: SPI 7-9 (Excel-mangled '9-Jul'), Tex 60 lockstitch, edge treatments folded/raw/inked, Shore C 45-55, foam 28-30 kg/m3, QC thresholds; AI-drafted, Vince-curated"}
+  vince-spec-guidance: {tier: 8, title: "Spec Guidance notes (Vince working doc, PDF 2026-07-04)", licence: first-party, note: "collar 10-15/8-10mm PU ~30kg/m3, vamp EVA 1.5-2mm, eyestay 15-20 to 10-15mm taper, outsole 70-80 Shore A, carbon plates 1-3mm; AI-drafted, Vince-curated"}
+  nb-spec-sheet-13sec: {tier: 8, title: "Sneaker Spec Sheet 13-section template (Vince working doc, PDF 2026-07-04)", licence: first-party, note: "section taxonomy: basic info, upper, lining, tongue/lacing, midsole, outsole, branding, sockliner, packaging, measurements/fit, QC, timeline, visual refs; AI-drafted, Vince-curated"}

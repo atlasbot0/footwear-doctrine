@@ -1,0 +1,38 @@
+# Controlled vocabulary v1 — alias + decode register. ISO 19952 is tie-breaker on conflicts.
+dictation_decodes:  # confirmed with Vince 2026-07-04 unless flagged
+  double road: double row (stitching)
+  lace debris: lace deubré
+  back counter toolbox: [heel counter, toe box]
+  last spec chat: last spec chart
+  for lasted: [board-lasted, force-lasted]
+  rapid welt stitch: Blake Rapid
+  staccato: [sacchetto, San Crispino]   # confirm which was meant; both in library
+  stitch out: stitchdown (veldtschoen)
+  hand fill: hand / temper
+  replacement pattern: placement print (vs repeat print)
+  stable frame: [shank, stability frame, external heel clip]
+  complete specs for four: complete specs for shoes/footwear
+regional_aliases:
+  heel counter: {UK: stiffener, IT: contrafforte, factory: counter}
+  toe puff: {US: toe box (colloquial), UK: toe puff, IT: puntale}
+  sockliner: {US: insole (consumer), factory: sockliner / inner sock / footbed}
+  insole board: {UK: insole, factory: lasting board}
+  outsole: {UK: sole, IT: suola}
+  vamp: {IT: tomaia (upper, whole)}
+  aglet: {factory: lace tip / tipping}
+  gemming: {alt: canvas rib}
+  vulcanised: {US: vulcanized}
+brand_generic_pairs:  # answer both directions in retrieval
+  Cordura: high-tenacity nylon woven
+  Vibram: rubber outsole unit / compound
+  XL Extralight: ultralight injected EVA-class closed-cell foam
+  GORE-TEX: waterproof-breathable membrane (ePTFE / ePE)
+  OrthoLite: open-cell PU sockliner foam
+  Poron: cellular urethane cushioning
+  Texon: cellulose insole board
+  Clarino: microfibre synthetic leather
+  BOA: dial lace reel closure
+  YKK: zip fastener
+  Boost: expanded TPU (E-TPU) bead foam
+  Scotchlite: retroreflective transfer film
+  Purofort (Dunlop): cellular PU boot compound
