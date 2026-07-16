@@ -15,5 +15,6 @@ relationships: {primary_use: [cmp-lining], luxe_use: [unlined sacchetto uppers]}
 sources: [golding-1902, nb-rsm-2024]
 confidence: medium
 status: seed
+render: "NAPPA LEATHER — Soft, full-grain sheep, lamb or kid leather with a smooth supple hand and a gentle warm sheen. Fine tight grain, buttery drape — folds into soft rounded creases rather than sharp breaks. Low-to-medium satin lustre that glows softly rather than reflecting hard. Subtle natural tonal variation with a luxurious depth; dye reads rich and even. Feels premium and pillowy. Associated with luxury sneakers, driving shoes and unlined loafers."
 ---
 Glorious hand, structural lightweight — keep it away from load paths or back it. Mulesed-wool bans apply to shearling sourcing.

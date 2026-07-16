@@ -15,5 +15,6 @@ relationships: {classic_on: [con-goodyear-welt, con-blake]}
 sources: [golding-1902, motawi-smdg]
 confidence: medium
 status: seed
+render: "BOX CALF — Fine chrome-tanned calfskin with an exceptionally tight, smooth grain and a crisp boarded finish. The tightest, most refined smooth leather — near-poreless at a glance, with a clean cool sheen that takes a mirror shine at toe and heel. Breaks into very fine, close-set vamp creases that stay sharp and elegant, never loose. Even, deep colour with a faint cool highlight where light rakes across the boarding lines. The dress-shoe benchmark — Oxfords, monkstraps, formal boots."
 ---
 Box calf (chrome, tight grain) is the archetype. Small hides punish inefficient patterns — nesting yield is a live cost line.

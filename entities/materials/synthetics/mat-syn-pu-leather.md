@@ -16,5 +16,6 @@ relationships: {upgrade_path: [mat-syn-microfibre], substitutes_for: [mat-leathe
 sources: [satra-bulletin, motawi-smdg]
 confidence: medium
 status: seed
+render: "PU LEATHER — Polyurethane-coated synthetic with a smooth even surface and a controlled semi-gloss finish; may carry a pressed grain or a plain film face. Perfectly uniform colour and reflectivity (no natural variation), clean sealed edges, and soft-plastic creasing with slight whitening at tight folds. Enables welding, heat-sealing and laser cutting. Reads clean and contemporary. Associated with affordable fashion footwear and modern welded constructions."
 ---
 The failure that shows up two summers later in the warehouse: hydrolysis. Spec the PU chemistry, not just the look.

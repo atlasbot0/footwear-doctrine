@@ -14,5 +14,6 @@ relationships: {adhesion_note: "oils fight cement bonds — flag for prc-halogen
 sources: [motawi-smdg, model-knowledge]
 confidence: medium
 status: seed
+render: "PULL-UP LEATHER — Full-grain cowhide treated with oils and waxes that migrate within the hide. Key visual signature: the PULL-UP EFFECT — wherever the leather bends, stretches, or is touched, the oils displace and the color lightens dramatically, revealing a lighter shade beneath. Creases show as bright lighter lines against richer surrounding color. Surface has a rich, waxy semi-matte finish with visible natural grain (tighter than aniline). Natural tonal variation is extreme — this leather is never one uniform color. Convex surfaces, edges, and wear points are noticeably lighter. Protected, flat areas are deeper and richer. The effect is dynamic: new creases create new light marks over time, building a living patina. More saturated and oily than dry aniline leather, with a warmer, hand-rubbed depth. Heritage boot staple (Red Wing, Viberg, Wolverine)."
 ---
 The character finish for boots and casuals. The doctrine treats finish (aniline→foil) as a first-class axis separate from species and tannage — that's the three-axis leather model: animal × tannage × finish.

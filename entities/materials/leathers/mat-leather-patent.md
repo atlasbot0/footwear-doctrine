@@ -14,5 +14,6 @@ relationships: {property_links: [prp-hand-temper — stiff], classic_on: [formal
 sources: [motawi-smdg, nb-rsm-2024]
 confidence: medium
 status: seed
+render: "PATENT LEATHER — Cowhide coated with a thick lacquer layer creating a mirror-gloss finish. At close range, a subtle orange-peel micro-texture is visible in the lacquer surface. Reflects surroundings with slight distortion — reflections stretch and warp across curved panels. Specular highlights are sharp and bright white, rolling off into deep saturated color in shadow areas. Natural tonal variation from the lacquer depth — edges and creases appear darker where the coating pools, flat surfaces appear lighter and more reflective. Flex points show fine craze lines in the lacquer. Unlike smooth leather, patent has a wet, liquid-looking depth to its surface that makes colors appear richer and more saturated."
 ---
 "Shine" as a controlled property. Store patent pairs with tissue interleave — patent-on-patent contact transfer is a real claim category.

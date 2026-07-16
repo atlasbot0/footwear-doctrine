@@ -16,5 +16,6 @@ relationships: {big_brother: [brd-cordura], backer_note: "usually laminated to f
 sources: [cordura-lib, nb-rsm-2024]
 confidence: medium
 status: seed
+render: "RIPSTOP — Lightweight woven fabric with a reinforcement grid of heavier denier yarns (typically 70D base with 210D reinforcement threads) woven at regular intervals, creating a subtle SQUARE or DIAMOND grid pattern (3-6mm spacing) visible across the surface. The grid pattern appears and disappears with viewing angle — most visible when light catches the heavier reinforcement threads at a raking angle. Between grid lines, the base fabric is thin and lightweight. Folds do NOT drape softly — ripstop holds angular, sharp creases and shows structured fold memory. The grid DISTORTS at crease points where fold stress pulls the pattern out of alignment. Matte to semi-matte finish. Cut edges fray unless sealed or bound. Pairs with synthetic overlays, rubberized toe guards, taped seams, and webbing straps. Associated with military, outdoor, and technical trail footwear."
 ---
 Buy the tear stop, engineer the abrasion: footwear ripstop is almost always a laminate, not a bare fabric.

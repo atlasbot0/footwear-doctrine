@@ -1,6 +1,6 @@
 # Footwear Doctrine — entity index (generated)
 
-_118 entities._
+_146 entities._
 
 ## components (23)
 
@@ -61,21 +61,32 @@ _118 entities._
 - **brd-xl-extralight** — XL EXTRALIGHT: Branded ultralight injected foam compound — one-shot moulded soles and footbeds at densities well under standard EVA; the luxury-sneaker and boat-shoe lightweight sole signature. ([file](entities/materials/branded/brd-xl-extralight.md))
 - **brd-ykk** — YKK: The default zip specification worldwide — metal, coil and Vislon (moulded) chains, AquaGuard water-resistant tapes, footwear-grade sliders and stops. ([file](entities/materials/branded/brd-ykk.md))
 
-## materials/leathers (13)
+## materials/leathers (24)
 
 - **mat-leather-bovine-full-grain** — full-grain bovine leather: Cattle hide with the intact grain layer — the strongest, most breathable and best-ageing upper leather class. ([file](entities/materials/leathers/mat-leather-bovine-full-grain.md))
 - **mat-leather-calf** — calf leather: Young bovine leather — fine, tight grain, small hides; the dress-shoe standard. ([file](entities/materials/leathers/mat-leather-calf.md))
 - **mat-leather-chrome-tan** — chrome-tanned leather: Chromium(III)-salt tannage — fast, soft, thermally stable, dye-versatile; ~85–90% of world footwear leather. ([file](entities/materials/leathers/mat-leather-chrome-tan.md))
+- **mat-leather-corrected-grain** — corrected-grain leather: Leather with the grain sanded away and a uniform grain embossed back on, then pigment-finished. ([file](entities/materials/leathers/mat-leather-corrected-grain.md))
+- **mat-leather-crocodile** — crocodile leather: Genuine crocodilian skin — rectangular belly tiles graduating to rounded scales with pressed valleys. ([file](entities/materials/leathers/mat-leather-crocodile.md))
+- **mat-leather-embossed-exotic** — embossed exotic leather: Bovine or calf leather pressed with an exotic-skin pattern (croc tiles, snake scales, lizard) — the accessible exotic look. ([file](entities/materials/leathers/mat-leather-embossed-exotic.md))
 - **mat-leather-goat-kid** — goat leather: Fine, tight-grained small hide with the best strength-to-thinness of the common species — heritage of women's fine footwear and gloves. ([file](entities/materials/leathers/mat-leather-goat-kid.md))
+- **mat-leather-haircalf** — haircalf: Calf hide with the short natural hair left on, lying in a uniform nap; often printed (leopard, zebra, cow). ([file](entities/materials/leathers/mat-leather-haircalf.md))
 - **mat-leather-kangaroo** — kangaroo leather: The highest strength-to-weight of common footwear leathers — fibre structure allows very thin splits to retain tensile; football-boot heritage. ([file](entities/materials/leathers/mat-leather-kangaroo.md))
+- **mat-leather-nappa** — nappa leather: Soft full-grain sheep, lamb or kid leather with a buttery hand and gentle warm sheen. ([file](entities/materials/leathers/mat-leather-nappa.md))
 - **mat-leather-nubuck** — nubuck: Grain-side buffed full/top-grain leather — velvet touch with grain-leather strength; suede's tougher sibling. ([file](entities/materials/leathers/mat-leather-nubuck.md))
+- **mat-leather-oiled** — oiled leather: Hot-stuffed, oil- and grease-fed leather with a soft hand, moody lustre and moderate pull-up. ([file](entities/materials/leathers/mat-leather-oiled.md))
+- **mat-leather-ostrich** — ostrich leather: Ostrich hide with characteristic raised quill-follicle bumps scattered across a supple grain. ([file](entities/materials/leathers/mat-leather-ostrich.md))
 - **mat-leather-patent** — patent leather: Leather finished with a high-gloss PU film — the maximum-shine finish class; historically linseed lacquer, now PU coating. ([file](entities/materials/leathers/mat-leather-patent.md))
+- **mat-leather-pebbled** — pebbled leather: Leather with a raised rounded pebble grain — natural shrunken grain or pressed scotch-grain. ([file](entities/materials/leathers/mat-leather-pebbled.md))
 - **mat-leather-pig** — pig leather: Economical, breathable leather with a tell-tale triple-follicle grain; the volume lining leather and a budget suede. ([file](entities/materials/leathers/mat-leather-pig.md))
 - **mat-leather-pull-up** — pull-up leather: Aniline leather stuffed with oils/waxes that migrate when flexed or pulled — lightening at stress points; the "it's got oil" finish family. ([file](entities/materials/leathers/mat-leather-pull-up.md))
+- **mat-leather-python** — python skin: Genuine python skin with overlapping directional scales laid head-to-tail; supple second-skin drape. ([file](entities/materials/leathers/mat-leather-python.md))
+- **mat-leather-saffiano** — saffiano leather: Coated calf with a fine cross-hatch embossed grain and a hard-wearing, scratch-resistant semi-gloss finish. ([file](entities/materials/leathers/mat-leather-saffiano.md))
 - **mat-leather-sheep** — sheepskin: Light, soft, stretchy small-hide leather — linings, slippers, unlined luxe; shearling when wool-on. ([file](entities/materials/leathers/mat-leather-sheep.md))
 - **mat-leather-shell-cordovan** — shell cordovan: Dense collagen membrane from the horse's hindquarter, slow veg-tanned — pore-free, rolls rather than creases, extreme longevity; the connoisseur leather. ([file](entities/materials/leathers/mat-leather-shell-cordovan.md))
 - **mat-leather-suede-split** — suede: Napped leather — either the buffed drop split or a full hide worn flesh-out; defined by nap, shading and drag. ([file](entities/materials/leathers/mat-leather-suede-split.md))
 - **mat-leather-veg-tan** — vegetable-tanned leather: Tannin (bark/wood extract) tannage — firm, mouldable, burnishable, patinas; the tannage of soles, welts, insoles and tooling leather. ([file](entities/materials/leathers/mat-leather-veg-tan.md))
+- **mat-leather-waxed** — waxed leather: Smooth leather saturated with hot wax for a living pull-up finish that lightens at flex points and edges. ([file](entities/materials/leathers/mat-leather-waxed.md))
 
 ## materials/polymers-foams-rubbers (16)
 
@@ -96,21 +107,38 @@ _118 entities._
 - **mat-tpu** — TPU: Injection-mouldable urethane elastomer — the structural plastic of modern footwear: heel cages, shanks/webs, plates, outsole inserts, welded films. ([file](entities/materials/polymers-foams-rubbers/mat-tpu.md))
 - **mat-tr** — TR: Injection-moulded styrenic rubber blend — the value casual/dress outsole: rubber look, plastic economics, moderate performance. ([file](entities/materials/polymers-foams-rubbers/mat-tr.md))
 
-## materials/synthetics (4)
+## materials/synthetics (5)
 
 - **mat-syn-kpu** — KPU: Low-pressure moulded polyurethane overlays formed directly with 3D texture — cage/mudguard/logo pieces with sculpted relief, stitched or bonded on. ([file](entities/materials/synthetics/mat-syn-kpu.md))
 - **mat-syn-microfibre** — microfibre synthetic leather: Non-woven of ultra-fine bicomponent fibres, impregnated with PU — structurally leather-like (3D fibre entanglement), the premium synthetic class. ([file](entities/materials/synthetics/mat-syn-microfibre.md))
 - **mat-syn-pu-leather** — PU synthetic leather: Polyurethane skin on a textile (or split-leather) substrate embossed to a grain — the volume leather substitute. ([file](entities/materials/synthetics/mat-syn-pu-leather.md))
 - **mat-syn-tpu-film** — TPU film: Thermoplastic polyurethane in film/sheet form — welded or heat-pressed as no-sew overlays, toe puffs, skins and reinforcement zones. ([file](entities/materials/synthetics/mat-syn-tpu-film.md))
+- **mat-syn-vegan-leather** — vegan leather: Animal-free synthetic leather (PU or bio-based) with a uniform grained surface and consistent finish. ([file](entities/materials/synthetics/mat-syn-vegan-leather.md))
 
-## materials/textiles (7)
+## materials/textiles (23)
 
+- **mat-textile-air-mesh** — air mesh: Open double-layer knitted mesh with large visible holes over a fine backing, engineered for ventilation. ([file](entities/materials/textiles/mat-textile-air-mesh.md))
+- **mat-textile-ballistic-nylon** — ballistic nylon: Heavy high-tenacity nylon in a tight basket weave — tough, lustrous and highly abrasion-resistant. ([file](entities/materials/textiles/mat-textile-ballistic-nylon.md))
+- **mat-textile-boucle** — boucle: Looped-yarn woven or knit textile with a bumpy, nubby loop surface and rich crumbly texture. ([file](entities/materials/textiles/mat-textile-boucle.md))
+- **mat-textile-corduroy** — corduroy: Cut-pile cotton with raised parallel wales (ridges) and a velvety directional nap. ([file](entities/materials/textiles/mat-textile-corduroy.md))
 - **mat-textile-cotton-canvas** — cotton canvas: Plain/basket-woven cotton — the vulcanised-sneaker upper and the Goodyear gemming rib fabric. ([file](entities/materials/textiles/mat-textile-cotton-canvas.md))
+- **mat-textile-cotton-twill** — cotton twill: Tightly woven cotton with a fine diagonal wale — smoother and denser than plain canvas. ([file](entities/materials/textiles/mat-textile-cotton-twill.md))
+- **mat-textile-denim** — denim: Warp-faced cotton twill with indigo warp and white weft; abrades and fades at wear points. ([file](entities/materials/textiles/mat-textile-denim.md))
 - **mat-textile-engineered-knit** — engineered knit upper: A flat- or circular-knitted upper where structure, stretch zones, ventilation and pattern are programmed into the knit itself — panel count collapses toward one. ([file](entities/materials/textiles/mat-textile-engineered-knit.md))
+- **mat-textile-faux-fur** — faux fur: Synthetic long-pile fabric imitating animal fur with soft flowing directional fibres. ([file](entities/materials/textiles/mat-textile-faux-fur.md))
+- **mat-textile-flannel** — flannel: Soft brushed wool or cotton with a lightly napped fuzzy matte face that diffuses light. ([file](entities/materials/textiles/mat-textile-flannel.md))
+- **mat-textile-fleece** — fleece: Brushed synthetic knit with a soft fuzzy pile on both faces — matte, cushioned and voluminous. ([file](entities/materials/textiles/mat-textile-fleece.md))
+- **mat-textile-jacquard-woven** — jacquard woven: Fabric with the pattern woven in on the loom — raised/recessed motifs, logos or geometrics (not printed). ([file](entities/materials/textiles/mat-textile-jacquard-woven.md))
+- **mat-textile-linen** — linen: Plain-woven flax with a characteristic slubby irregular texture and a dry matte finish. ([file](entities/materials/textiles/mat-textile-linen.md))
+- **mat-textile-mono-mesh** — mono mesh: Sheer single-layer mesh of fine transparent monofilament yarns — very light and technical. ([file](entities/materials/textiles/mat-textile-mono-mesh.md))
+- **mat-textile-neoprene** — neoprene: Foamed synthetic rubber sheet, usually jersey-faced — soft, spongy, stretchy and pillowy. ([file](entities/materials/textiles/mat-textile-neoprene.md))
 - **mat-textile-open-mesh** — open mesh: Warp-knitted polyester mesh with visible open cells — the breathability workhorse of athletic uppers. ([file](entities/materials/textiles/mat-textile-open-mesh.md))
+- **mat-textile-rib-knit** — ribbed knit: Knit with pronounced vertical ribs giving a stretchy, elastic, channelled surface; used for collars and cuffs. ([file](entities/materials/textiles/mat-textile-rib-knit.md))
 - **mat-textile-ripstop** — ripstop nylon: Lightweight woven with a reinforcing grid of heavier yarns that arrests tear propagation — the visible-grid technical upper fabric. ([file](entities/materials/textiles/mat-textile-ripstop.md))
 - **mat-textile-spacer-mesh** — spacer mesh: Two knitted faces held apart by monofilament pile — built-in cushioning and airflow in one textile; collar/tongue/lining staple. ([file](entities/materials/textiles/mat-textile-spacer-mesh.md))
+- **mat-textile-tweed** — tweed: Rough flecked woven wool, often in herringbone or check, with busy speckled multi-colour texture. ([file](entities/materials/textiles/mat-textile-tweed.md))
 - **mat-textile-webbing** — webbing: Narrow woven or knitted tape — straps, pull tabs, bindings, sandal uppers; also the elastic-core version for gussets. ([file](entities/materials/textiles/mat-textile-webbing.md))
+- **mat-textile-wool-melton** — wool melton: Dense fulled wool with a smooth compact felted face and a warm matte hand; cuts a clean fray-free edge. ([file](entities/materials/textiles/mat-textile-wool-melton.md))
 - **mat-textile-woven-nylon** — woven nylon: Plain-woven nylon in graded deniers — the runner-heritage upper fabric (waffle-era) and quarter-panel staple. ([file](entities/materials/textiles/mat-textile-woven-nylon.md))
 
 ## processes (7)

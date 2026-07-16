@@ -16,5 +16,6 @@ relationships: {classic_on: [con-stitchdown, con-vulcanised], property_links: [p
 sources: [motawi-smdg, heddels-con, nb-rsm-2024]
 confidence: medium
 status: seed
+render: "COW SUEDE — Standard cowhide brushed suede with visible nap (1-2mm) and natural fiber direction. Individual fibers are clearly visible and discernible at close range. Surface is a soft fuzzy suede texture, visibly fibrous with a flat matte finish. Natural tonal variation across the surface — lighter where nap catches light, darker in compressed areas and along seams. Coarser and more textured than kid suede. Thicker, more casual appearance."
 ---
 Suede is where "nap, drag, shading" stop being poetry and become QC criteria — pairs must shade the same way under store light. DWR treatments now need PFAS-free chemistry.

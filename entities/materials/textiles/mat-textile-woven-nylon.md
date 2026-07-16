@@ -14,5 +14,6 @@ relationships: {reinforced_by: [suede/synthetic overlays], premium_class: [brd-c
 sources: [motawi-smdg, cordura-lib]
 confidence: medium
 status: seed
+render: "NYLON OXFORD — Mid-weight nylon in a basket-weave (oxford) structure with a fine grid texture and a low-to-medium sheen. Tougher than taffeta, smoother than ballistic — the small basket weave reads clearly close up with a subtle directional glint. Holds structured folds and resists abrasion; often PU-backed for water resistance. Even colour with weave-driven micro-texture. Associated with outdoor, gorpcore and utility uppers."
 ---
 The retro-runner recipe is nylon body + suede structure; the denier number is the shorthand spec.

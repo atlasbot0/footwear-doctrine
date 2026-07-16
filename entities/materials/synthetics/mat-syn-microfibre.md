@@ -15,5 +15,6 @@ relationships: {brand_examples: [brd-clarino], classic_on: [football boots, prem
 sources: [motawi-smdg, model-knowledge]
 confidence: medium
 status: seed
+render: "MICROFIBER / SYNTHETIC SUEDE — Nonwoven microfiber textile engineered to mimic natural suede. Consistent, UNIFORM nap direction with less random fiber variation than real animal suede — the nap is more predictable and evenly distributed. Clean embossing capability — takes debossed logos and patterns with crisp edges (sharper than natural suede). Color is uniform and consistent across panels — none of the hide-to-hide variation found in natural suede. Nap SHIFTS with panel orientation — directional light/dark response exists but is more subtle and predictable than animal suede. Cut edges are CLEAN (less fuzzy than natural suede) with minimal fiber pull. Works excellently with butt seams, stitch-and-turn, and no-sew construction. Thinner and more dimensionally stable than natural suede. Water-resistant. Associated with Ultrasuede, Alcantara, and premium synthetic footwear where consistent appearance is required."
 ---
 When synthetic must behave like leather in the factory — skiving, folding, lasting — microfibre is the class that does it.

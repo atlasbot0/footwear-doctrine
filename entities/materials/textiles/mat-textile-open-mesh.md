@@ -15,5 +15,6 @@ relationships: {sibling: [mat-textile-spacer-mesh], observed_on: [nb-1906r-sheet
 sources: [nb-1906r-sheet, motawi-smdg]
 confidence: high
 status: seed
+render: "OPEN MESH — Wide-gauge mesh with large open cells (2-5mm) and slim connecting bars, highly breathable and see-through to the layer beneath. The cell grid is crisp and regular; each opening shows soft interior shadow and the backing/foam behind it. Matte-to-low-sheen yarn bars. Light and airy with a soft springy structure. Associated with summer trainers, breathable panels and layered mesh-over-cage uppers."
 ---
 Spec face yarn, cell geometry, laminate stack and backer — "mesh" alone is not a spec.
