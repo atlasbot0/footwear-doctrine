@@ -1,7 +1,7 @@
 # Footwear Doctrine — entity schema v1 (frozen for v0.1 review)
 version: 1
-entity_types: [component, material, construction, process, property, standard, brand]
-id_prefixes: {component: cmp-, material: mat-, construction: con-, process: prc-, property: prp-, standard: std-, brand: brd-}
+entity_types: [component, material, construction, process, property, standard, brand, silhouette]
+id_prefixes: {component: cmp-, material: mat-, construction: con-, process: prc-, property: prp-, standard: std-, brand: brd-, silhouette: sil-}
 required_fields: [id, type, names, domain, definition, sources, confidence, status]
 optional_fields:
   - aliases            # map: region/context -> term (US/UK/IT/factory-floor)
@@ -19,7 +19,8 @@ optional_fields:
   - generic_equivalent # brands only: generic material/component class id
 domains: [D1-foot-fit, D2-sizing, D3-last, D4-patterns, D5-upper-materials, D6-linings,
           D7-padding, D8-reinforcement, D9-bottom-stack, D10-constructions, D11-closing,
-          D12-closures-trims, D13-adhesives, D14-process-qa, D15-testing-compliance, D16-commercial]
+          D12-closures-trims, D13-adhesives, D14-process-qa, D15-testing-compliance, D16-commercial,
+          D17-silhouette]
 confidence_values: [high, medium, low]
 status_values: [seed, draft, triangulated, validated]
 compliance_flags_vocab: [pvc-restricted-major-brands, pfas-phase-out, phthalate-risk,
